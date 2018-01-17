@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Anthony Harvey's Blog
 header-img: img/home-bg.png
 email: anthonygharvey@gmail.com
 copyright_name: anthonygharvey
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Journey To Become A Full-Stack Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: anthonyharvey
 github_username:  anthonygharvey
