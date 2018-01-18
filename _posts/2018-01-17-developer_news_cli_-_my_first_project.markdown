@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Developer News CLI - My First Project"
-date:       2018-01-18 04:00:52 +0000
+title:      "Developer News CLI App - My First Project"
+date:       2018-01-17 23:00:53 -0500
 permalink:  developer_news_cli_-_my_first_project
 ---
 
