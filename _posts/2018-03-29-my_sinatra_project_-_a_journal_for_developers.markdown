@@ -6,7 +6,7 @@ permalink:  my_sinatra_project_-_a_journal_for_developers
 ---
 
 
-For my Sinatra project, I chose to build an app that I’ve wanted to use but haven’t quite found.  Since I’ve been in Flatiron’s full stack developer program I’ve wanted to keep track of what I’m learning, see my learning/coding “streaks” and set goals for myself.  I’ve used a combination of [Day One](dayoneapp.com) for journaling, [Quiver](http://happenapps.com/#quiver) for organizing my notes and different goal tracking iOS apps.   Individually, these apps worked for their purposes, but they were too cumbersome for what I wanted; so I decided to make an app with the features I was looking for.
+For my Sinatra project, I chose to build an app that I’ve wanted to use but haven’t quite found.  Since I’ve been in Flatiron’s full stack developer program I’ve wanted to keep track of what I’m learning, see my learning/coding “streaks” and set goals for myself.  I’ve used a combination of [Day One](http://dayoneapp.com) for journaling, [Quiver](http://happenapps.com/) for organizing my notes and different goal tracking iOS apps.   Individually, these apps worked for their purposes, but they were too cumbersome for what I wanted; so I decided to make an app with the features I was looking for.
 
 ## The project requirements were:
 1. Build an MVC Sinatra Application
